@@ -24,8 +24,8 @@
 * [Snakes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_ladders): A text based Snakes and Ladders game with extra rules making the game much more fun for 4 players.
 
 #
-Contact me at:  
+**Contact me at:**    
 vishalreddyp2002@gmail.com / rubikvishal@gmail.com   
 +91 9347240742  
-Social Links:  
+**Social Links:**    
 [![](images/sapp.png)](wa.me/919347240742)&nbsp;&nbsp;&nbsp;[![https://www.youtube.com/channel/UCdvDlEZ4Tlh7JuknCDgxgaA](images/ytyt.png)](https://www.youtube.com/channel/UCdvDlEZ4Tlh7JuknCDgxgaA)
