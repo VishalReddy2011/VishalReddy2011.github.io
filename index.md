@@ -31,7 +31,7 @@
 * Expermenting with Sonic Pi
 * Teaching Math to few Xth students 
 
-#
+
 **Contact me at:**    
 vishalreddyp2002@gmail.com / rubikvishal@gmail.com   
 +91 9347240742  
