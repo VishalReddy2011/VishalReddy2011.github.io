@@ -23,10 +23,17 @@
 * [Stand Proud (Cover)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS47e3y-_0AhXqT2wGHRBUA2oQyCl6BAgHEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dit4koqzOwb0&usg=AOvVaw2CsyYYGIS980EsctDs6ZoV): My cover of the opening theme of JoJo's Bizarre Adventure: Stardust Crusaders with Sonic Pi
 * [Snakes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_ladders): A text based Snakes and Ladders game with extra rules making the game much more fun for 4 players.
 
+## Hobbies:
+* Badminton
+* Rubik's Cubes
+* Fictional Novels
+* Expermenting with Sonic Pi
+* Teaching Math to few Xth students 
+
 #
 **Contact me at:**    
 vishalreddyp2002@gmail.com / rubikvishal@gmail.com   
 +91 9347240742  
-**Social Links:**    
+**Other Links:**    
 [![](images/sapp.png)](wa.me/919347240742)&nbsp;&nbsp;&nbsp;[![https://www.youtube.com/channel/UCdvDlEZ4Tlh7JuknCDgxgaA](images/ytyt.png)](https://www.youtube.com/channel/UCdvDlEZ4Tlh7JuknCDgxgaA)  
-*The projects aren't real
+*The projects aren't real and are exaggerated
