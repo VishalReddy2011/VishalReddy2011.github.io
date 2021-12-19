@@ -10,6 +10,7 @@
 * XIIth (Telangana State Board) - 93.4 %
 * JEE Rank: 15724
 * City First in Ramanujan Mathematics Olympiad 2020
+* Piano - Grade 7 (Trinity)
 
 ## Skills:
 * Python
