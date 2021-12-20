@@ -9,7 +9,7 @@
 * Xth (CBSE) - 9.8 CGPA
 * XIIth (Telangana State Board) - 93.4 %
 * JEE Rank: 15724
-* City First in Ramanujan Mathematics Olympiad 2020
+* City First in Ramanujan Mathematics Olympiad 2018
 * Piano - Grade 7 (Trinity)
 
 ## Skills:
