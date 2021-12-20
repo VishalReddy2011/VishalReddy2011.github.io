@@ -29,7 +29,9 @@
 * Rubik's Cubes
 * Fictional Novels
 * Expermenting with Sonic Pi
-* Teaching Math to few Xth students 
+* Teaching Math to few Xth students   
+
+------------------------------------------------------------  
 
 
 **Contact me at:**    
